@@ -1,9 +1,10 @@
-# my Project- a Web just about me !!!
+# my Project- a Web just about me (still in Progress)!!!
 
-I made this Web just because i dont want to write so many applications for job finding!!!!!
+I wann to create this website to simplify the job application process and save time.
 
-so.... if you want to know me, please clict on "MY WEBSEITE"!!
+If you'd like to learn more about me, please click on "MY WEBSITE"!
 
-I hope, you will enjoy it !!
+I hope you enjoy exploring it!
+
 
 Gg
