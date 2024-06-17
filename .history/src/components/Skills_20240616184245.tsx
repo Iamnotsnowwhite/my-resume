@@ -1,0 +1,20 @@
+import React from 'react';
+
+const Skills: React.FC = () => {
+  return (
+    <section id="skills">
+      <h2>Sills</h2>
+      <ul>
+        <li>programming langranges：JavaScript, TypeScript, Python, Java</li>
+        <li>front-end：React, Redux, HTML, CSS</li>
+        <li>back-end：Node.js, Express, MongoDB</li>
+        <li>Tools：Git, Docker, Webpack</li>
+        <li>Design:</li>
+        <li>Illustration/painting:</li>
+        <li>Tools/Programms: Adobe illustrator, photoshop, indesign</li>
+      </ul>
+    </section>
+  );
+};
+
+export default Skills;
