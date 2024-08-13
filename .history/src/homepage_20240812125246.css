@@ -1,0 +1,52 @@
+.homepage-container {
+    position: relative;
+    text-align: center;
+    padding-top: 20px; /* 添加一点顶部内边距 */
+}
+
+
+.video-container {
+    position: relative;
+    width: 90%; /* 调整为90%宽度，留出一些边距 */
+    max-width: 1000px; /* 设置最大宽度 */
+    height: 60vh; /* 固定高度为视窗高度的60% */
+    overflow: hidden;
+    margin: 20px auto; /* 居中并在上下添加20px的外边距 */
+    border-radius: 15px; /* 添加圆角 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* 添加阴影效果 */
+    background-color: white; /* 白色背景，确保白边效果 */
+    border: 5px solid #ffffff; /* 白色边框，增强白边效果 */
+}
+
+.background-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* 确保视频充满容器 */
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    padding: 20px;
+    background: rgba(169, 169, 169, 0.8); /* 半透明灰色背景 */
+    margin-top: 20px; /* 适当增加margin，避免内容过度靠近视频 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: white; /* 内容的背景色 */
+}
+
+/* 适应小屏幕 */
+@media (max-width: 768px) {
+    .content {
+        margin-top: 20px; /* 在小屏幕上适当增加margin，避免过度重叠 */
+        padding: 15px;
+        box-shadow: none; /* 移除阴影以简化小屏幕布局 */
+    }
+
+    .video-container {
+        height: 40vh; /* 在小屏幕上减少视频的高度 */
+    }
+}

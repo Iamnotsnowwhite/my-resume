@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to my website",
+    "description": "This is an example of a multi-language website.",
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    }
+  }
+  

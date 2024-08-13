@@ -1,0 +1,122 @@
+.chat-box-container {
+    display: flex;
+    justify-content: space-between; /* 确保左右两侧的布局 */
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.chat-history {
+    flex: 1;
+    margin-right: 20px;
+    max-width: 300px; /* 设置聊天记录框的最大宽度 */
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    overflow-y: auto;
+    height: 500px; /* 设置聊天记录框的高度 */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.chat-input-container {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: #f7f7f7;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.chat-messages {
+    flex-grow: 1;
+    margin-bottom: 15px;
+    overflow-y: auto;
+    max-height: 80%;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.chat-message {
+    background-color: #e0e0e0;
+    color: #333;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    text-align: left;
+    max-width: 75%;
+}
+
+.chat-message strong {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.chat-image {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.chat-input input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+    border: 2px solid #ccc;
+    outline: none;
+    font-size: 14px;
+}
+
+.chat-input-buttons {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.chat-input input[type="file"] {
+    display: none;
+}
+
+.image-upload-button {
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    width: 48%; /* 确保按钮并排 */
+    text-align: center;
+}
+
+.image-upload-button:hover {
+    background-color: #555555;
+}
+
+.chat-input button {
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+    width: 48%; /* 确保按钮并排 */
+    text-align: center;
+}
+
+.chat-input button:hover {
+    background-color: #555;
+}

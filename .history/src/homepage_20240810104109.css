@@ -1,0 +1,37 @@
+.homepage-container {
+    position: relative;
+    text-align: center;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    max-height: 80vh; /* 将最大高度设置为视窗高度的80% */
+    overflow: hidden;
+}
+
+.background-video {
+    width: 100%;
+    height: auto;
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* 半透明白色背景 */
+    margin-top: -50px; /* 减少margin，确保内容看起来更靠近视频 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+/* 适应小屏幕 */
+@media (max-width: 768px) {
+    .content {
+        margin-top: -20px; /* 在小屏幕上减少悬浮的高度 */
+        padding: 15px;
+    }
+}

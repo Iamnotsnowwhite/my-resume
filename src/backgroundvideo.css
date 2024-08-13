@@ -1,0 +1,24 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    height: auto; /* 让高度根据视频比例自动调整 */
+    max-width: 1000px; /* 设置最大宽度 */
+    margin: 20px auto; /* 设置上下的边距为40px，并居中视频 */
+    padding-top: 0; /* 移除保持16:9的比例，改为自动调整 */
+    background-color: white; /* 设置白色背景 */
+    border-radius: 15px; /* 添加更大的圆角，增加美观效果 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* 添加更大的阴影效果，提升层次感 */
+    overflow: hidden; /* 确保视频不会超出容器的范围 */
+    border: 5px solid #ffffff; /* 添加一个白色的边框，以确保白边效果 */
+    cursor: url('/Users/guoguo/Desktop/my-resume/public/magic-wand.png'), auto; /* 将光标应用于整个页面 */
+}
+
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* 确保视频充满容器并保持比例 */
+}

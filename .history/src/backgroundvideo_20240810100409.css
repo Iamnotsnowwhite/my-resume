@@ -1,0 +1,18 @@
+/* src/components/BackgroundVideo.css */
+
+.video-container {
+    position: relative;
+    width: 80%; /* 设置视频容器的宽度，根据需要调整 */
+    max-width: 800px; /* 设置最大宽度 */
+    margin: 20px auto; /* 使容器居中 */
+    overflow: hidden;
+    border-radius: 15px; /* 使容器具有圆角效果 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+  }
+  
+  .video-container video {
+    width: 100%; /* 使视频宽度适应容器 */
+    height: auto;
+    display: block;
+  }
+  

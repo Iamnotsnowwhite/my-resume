@@ -1,0 +1,18 @@
+.language-switcher {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white; /* 你可以根据需要设置背景颜色 */
+    padding: 10px;
+    display: flex;
+    justify-content: center; /* 居中对齐按钮 */
+    gap: 10px; /* 按钮之间的间距 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加阴影以分隔按钮 */
+  }
+  
+  .language-switcher button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  

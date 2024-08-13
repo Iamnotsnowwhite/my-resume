@@ -1,0 +1,46 @@
+{
+  "header": {
+    "Welcome to my website!": "Willkommen auf meiner Website!",
+    "Zhaoguo Wei": "Zhaoguo Wei",
+    "nav": {
+      "Home": "Startseite",
+      "About": "Über mich",
+      "Contact": "Kontakt"
+    }
+  },
+
+  "About": {
+    "This is ME !": "Das bin ICH!",
+    "I am a student in computer science 5. Semester": "Ich bin Student im 5. Semester Informatik",
+    "lived in Germany for over 7 years": "Ich lebe seit über 7 Jahren in Deutschland",
+    "speak chinese, german and english": "Ich spreche Chinesisch, Deutsch und Englisch (fließend oder in anderen Worten: Sicher in Wort und Schrift)",
+    "Education": "Bildung",
+    "Freie Universität Berlin": "Freie Universität Berlin",
+    "B.Sc. Computer Science (Informatik) (2022 - now)": "B.Sc. Informatik (2022 - jetzt)",
+    "Friedrich Ebert Gymnasium": "Friedrich Ebert Gymnasium",
+    "Graduated in 2022": "Abschluss im Jahr 2022",
+    "Work-experience": "Berufserfahrung",
+    "Work student - SynTAGit": "Werkstudent - SynTAGit",
+    "(2024.Aug)": "(2024.Aug)",
+    "Übersetzerin - Yixue Bildungszentrum": "Übersetzerin - Yixue Bildungszentrum",
+    "offering seamless translation in both directions.": "Biete nahtlose Übersetzungen in beide Richtungen an.",
+    "(2020 - now)": "(2020 - jetzt)",
+    "freelance illustrator": "Freiberufliche Illustratorin",
+    "Beemybox - Designed Landing page and product packaging": "Beemybox - Gestaltung der Landing Page und Produktverpackung",
+    "Yixue Bildungszentrum - Illustration greeting cards and book illustrations": "Yixue Bildungszentrum - Gestaltung von Grußkarten und Buchillustrationen",
+    "(2019 - now)": "(2019 - jetzt)",
+    "Projects": "Projekte",
+    "Data Analysis with Python": "Datenanalyse mit Python",
+    "Object-Oriented Programming Project": "Objektorientiertes Programmierprojekt",
+    "linkText": "Schau mal rein",
+    "Skills": "Fähigkeiten",
+    "Programming Languages": "Programmiersprachen: JavaScript, TypeScript, Python, Java, C/C++, Haskell",
+    "Front-End": "Front-End: React, HTML, CSS",
+    "Back-End": "Back-End: Node.js, Express, MongoDB",
+    "Tools": "Werkzeuge: Git",
+    "Design": "Design: Flyerproduktion",
+    "Illustration/Painting": "Illustration/Malerei: Realistischere Stilrichtung",
+    "Tools/Programs (Computer)": "Tools/Programme (Computer): Adobe Illustrator, Photoshop, InDesign, Blender",
+    "Tools/Programs (iPad)": "Tools/Programme (iPad): Procreate, Nomad"
+  }
+}

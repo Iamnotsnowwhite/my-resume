@@ -1,0 +1,20 @@
+{
+    "header":{
+        "Welcome to my website!":
+    },
+    "welcome": "欢迎来到我的网站",
+    "description": "这是我的网站",
+    "header": {
+      "home": "首页",
+      "about": "关于我",
+      "contact": "联系"
+    },
+    "footer": {
+      "rights": "Alle Rechte vorbehalten."
+    },
+    "buttons": {
+      "submit": "Absenden",
+      "cancel": "Abbrechen"
+    }
+  }
+  

@@ -1,0 +1,47 @@
+/* src/components/LanguageSwitcher.css */
+.language-switcher {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: inline-block;
+  z-index: 1000; /* 确保语言切换器在其他元素之上 */
+}
+
+.language-switcher button {
+  background-color: #555;
+  color: #ffffff;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  z-index: 1001; /* 确保按钮在其他内容之上 */
+}
+
+.language-list {
+  position: absolute;
+  top: 100%;
+  right: 0; /* 将下拉列表与按钮右对齐 */
+  background-color: #f17e6a;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0;
+  margin: 5px 0 0;
+  list-style: none;
+  min-width: 150px; /* 确保下拉列表有足够宽度 */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1002; /* 确保下拉列表在其他元素之上 */
+}
+
+.language-list li {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #f17e6a;
+  text-align: center;
+}
+
+.language-list li:hover {
+  background-color: #d48c00;
+}

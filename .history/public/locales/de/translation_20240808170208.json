@@ -1,0 +1,16 @@
+{
+    "welcome": "Willkommen auf meiner Website",
+    "header": {
+      "home": "Startseite",
+      "about": "Über mich",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "rights": "Alle Rechte vorbehalten."
+    },
+    "buttons": {
+      "submit": "Absenden",
+      "cancel": "Abbrechen"
+    }
+  }
+  

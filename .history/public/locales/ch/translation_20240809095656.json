@@ -1,0 +1,30 @@
+{
+    "header":{
+        "Welcome to my website!":"欢迎来到我的网站",
+        "Zhaoguo Wei": "魏兆果",
+        "nav":{"Home": "主页",
+        "About": "关于我",
+        "Contact":"联系我吧！"
+        }
+    },
+
+    "Home":{
+
+    },
+
+    "About":{
+        "This is ME !": "这是我！",
+        "I am a student in computer science 5. Semester":"我是一名计算机科学第五学期的大学生",
+        "lived in Germany for over 7 years":"已经在德国生活了七年啦",
+        "speak chinese, german and english (fluently or in other word: Sicher in Wort und Schrift)":""
+
+    }
+
+
+    
+
+
+
+}
+  
+  

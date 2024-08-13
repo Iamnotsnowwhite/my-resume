@@ -1,0 +1,55 @@
+{
+  "header": {
+    "Welcome to my website!": "Welcome to my website!",
+    "Zhaoguo Wei": "Zhaoguo Wei",
+    "nav": {
+      "Home": "Home",
+      "About": "About",
+      "Contact": "Contact"
+    }
+  },
+  "home": {
+    "Welcome to the Home Page!": "Welcome to the Home Page!",
+    "Introduction": "This is the introduction to the Home Page."
+  },
+  "about": {
+    "This is ME !": "This is ME !",
+    "I am a student in computer science 5. Semester": "I am a student in computer science 5. Semester",
+    "lived in Germany for over 7 years": "lived in Germany for over 7 years",
+    "speak chinese, german and english": "speak chinese, german and english (fluently or in other word: Sicher in Wort und Schrift)",
+    "Education": "Education",
+    "Freie Universität Berlin": "Freie Universität Berlin",
+    "B.Sc. Computer Science (Informatik) (2022 - now)": "B.Sc. Computer Science (Informatik) (2022 - now)",
+    "Friedrich Ebert Gymnasium": "Friedrich Ebert Gymnasium",
+    "Graduated in 2022": "Graduated in 2022",
+    "Work-experience": "Work-experience",
+    "Work student - SynTAGit": "Work student - SynTAGit",
+    "(2024.Aug)": "(2024.Aug)",
+    "Übersetzerin - Yixue Bildungszentrum": "Übersetzerin - Yixue Bildungszentrum",
+    "offering seamless translation in both directions.": "offering seamless translation in both directions.",
+    "(2020 - now)": "(2020 - now)",
+    "freelance illustrator": "freelance illustrator",
+    "Beemybox - Designed Landing page and product packaging": "Beemybox - Designed Landing page and product packaging",
+    "Yixue Bildungszentrum - Illustration greeting cards and book illustrations": "Yixue Bildungszentrum - Illustration greeting cards and book illustrations",
+    "(2019 - now)": "(2019 - now)",
+    "Projects": "Projects",
+    "Data Analysis with Python": "Data Analysis with Python",
+    "Object-Oriented Programming Project": "Object-Oriented Programming Project",
+    "linkText": "Have a look",
+    "Skills": "Skills",
+    "Programming Languages": "Programming Languages: JavaScript, TypeScript, Python, Java, C/C++, Haskell",
+    "Front-End": "Front-End: React, HTML, CSS",
+    "Back-End": "Back-End: Node.js, Express, MongoDB",
+    "Tools": "Tools: Git",
+    "Design": "Design: Flyer production",
+    "Illustration/Painting": "Illustration/Painting: More realistic style",
+    "Tools/Programs (Computer)": "Tools/Programs (Computer): Adobe Illustrator, Photoshop, InDesign, Blender",
+    "Tools/Programs (iPad)": "Tools/Programs (iPad): Procreate, Nomad"
+  },
+  "contact": {
+    "Get in touch": "Get in touch",
+    "You can reach me at the following": "You can reach me at the following",
+    "Email": "Email",
+    "Phone": "Phone"
+  }
+}

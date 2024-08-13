@@ -1,0 +1,20 @@
+.video-background {
+    position: fixed;
+    top: 60px; /* 设置为header的高度，确保视频在header下面 */
+    left: 0;
+    width: 100%;
+    height: calc(100% - 60px); /* 减去header的高度 */
+    overflow: hidden;
+    z-index: -1; /* 确保视频在背景层 */
+  }
+  .background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+  }
+  

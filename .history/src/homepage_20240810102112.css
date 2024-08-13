@@ -1,0 +1,25 @@
+.homepage-container {
+    position: relative;
+    text-align: center;
+  }
+  
+  .video-container {
+    position: relative;
+    width: 100%;
+    max-height: 500px; /* 你可以根据需要调整 */
+    overflow: hidden;
+  }
+  
+  .background-video {
+    width: 100%;
+    height: auto;
+  }
+  
+  .content {
+    position: relative;
+    z-index: 2;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* 半透明白色背景 */
+    margin-top: -100px; /* 使内容稍微悬浮在视频上 */
+  }
+  

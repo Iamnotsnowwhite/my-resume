@@ -1,0 +1,17 @@
+{
+    "welcome": "Willkommen auf meiner Website",
+    "description": "Dies ist ein Beispiel für eine mehrsprachige Website.",
+    "header": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "rights": "Alle Rechte vorbehalten."
+    },
+    "buttons": {
+      "submit": "Absenden",
+      "cancel": "Abbrechen"
+    }
+  }
+  

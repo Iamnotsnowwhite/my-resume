@@ -1,0 +1,17 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 80%; /* 改为100%以适应整个页面宽度 */
+    margin: 0 auto; /* 居中视频 */
+    padding-top: 56.25%; /* 保持16:9的宽高比 */
+    height: 0;
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 80%;
+    object-fit: cover; /* 确保视频充满容器并保持比例 */
+}

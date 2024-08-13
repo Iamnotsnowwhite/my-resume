@@ -1,0 +1,27 @@
+{
+    "header":{
+        "Welcome to my website!":"欢迎来到我的网站",
+        "Zhaoguo Wei": "魏兆果",
+        "nav":{"Home": "主页",
+        "About": "关于我",
+        "Contact":"联系我吧！"
+    }
+    },
+
+    "home": {
+    "title": "Home Page",
+    "content": "This is the home page content."
+  },
+  "about": {
+    "title": "About Us",
+    "content": "This is the about page content. Here you can learn more about us."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": "This is the contact page content. Feel free to reach out."
+
+
+
+}
+  
+  

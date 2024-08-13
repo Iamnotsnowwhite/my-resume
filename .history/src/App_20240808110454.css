@@ -1,0 +1,113 @@
+body {
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #3b5998; /* 深蓝色，灵感来自《星夜》 */
+  color: #f4c542; /* 黄色，灵感来自《星夜》中的星星 */
+  text-align: center;
+}
+
+header {
+  background-color: #2c3e50; /* 更深的蓝色，营造深邃感 */
+  padding: 20px;
+  color: #f4c542;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 0 0 10px 10px;
+}
+
+nav a {
+  color: #f4c542;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #2c3e50;
+  padding: 10px;
+  color: #f4c542;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 10px 10px 0 0;
+}
+
+h1, h2 {
+  color: #e67e22; /* 橙色，参考《向日葵》的色调 */
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #ecf0f1; /* 浅灰色，柔和对比 */
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #f4c542;
+  color: #2c3e50;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #f39c12;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ecf0f1;
+  color: #2c3e50;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+}
+
+a {
+  color: #e74c3c; /* 红色，增加视觉冲击 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #3498db; /* 天蓝色，灵感来自梵高的天空 */
+  border-radius: 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+input[type="submit"] {
+  background-color: #f4c542;
+  border: none;
+  color: #2c3e50;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+  background-color: #f39c12;
+}

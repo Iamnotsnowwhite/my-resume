@@ -1,0 +1,17 @@
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 560px; /* 设置最大宽度 */
+    margin: 0 auto; /* 居中视频 */
+    padding-top: 56.25%; /* 保持16:9的宽高比 */
+    height: 0;
+  }
+  
+  .react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  

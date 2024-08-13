@@ -1,0 +1,38 @@
+{
+    "header":{
+        "Welcome to my website!":"欢迎来到我的网站",
+        "Zhaoguo Wei": "魏兆果",
+        "nav":{"Home": "主页",
+        "About": "关于我",
+        "Contact":"联系我吧！"
+        }
+    },
+
+    "Home":{
+
+    },
+
+    "About":{
+        "This is ME !": "这是我！",
+        "I am a student in computer science 5. Semester":"我是一名计算机科学第五学期的大学生",
+        "lived in Germany for over 7 years":"已经在德国生活了七年啦",
+        "speak chinese, german and english (fluently or in other word: Sicher in Wort und Schrift)":"能流利的说中文德语和英语，口语写作都没问题",
+        "Education":"学历",
+        "Freie Universität Berlin": "柏林自由大学",
+        "B.Sc. Computer Science (Informatik) (2022 - now)":"计算机本科 （2022-至今）",
+        "Friedrich Ebert Gymnasium":"弗里德里希·艾伯特文理高中",
+        "Graduated in 2022":"已经在2022年毕业",
+        "Work-experience":"工作经历",
+        "Work student - SynTAGit"
+
+
+    }
+
+
+    
+
+
+
+}
+  
+  

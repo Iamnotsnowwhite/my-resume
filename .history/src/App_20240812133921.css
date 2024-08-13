@@ -1,0 +1,132 @@
+body {
+  font-family: 'Times New Roman', Times, serif; /* 经典的衬线字体 */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: transparent; /* 背景透明以显示视频 */
+  color: #000000; /* 深灰色字体 */
+  text-align: center;
+  z-index: 1;
+  position: relative; /* 确保内容层级正常 */
+  cursor: url('/Users/guoguo/Desktop/my-resume/public/Webp.net-resizeimage.png
+  
+}
+
+header {
+  background-color: rgba(102, 102, 102, 0.8); /* 半透明灰色背景 */
+  padding: 20px;
+  color: #000000; /* 深灰色字体 */
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 0 0 10px 10px;
+  z-index: 3;
+  position: relative; /* 确保header内容在视频之上 */
+}
+
+nav a {
+  color: #000000; /* 深灰色字体 */
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.8); /* 半透明黑色背景 */
+  padding: 10px;
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 10px 10px 0 0;
+  z-index: 3;
+}
+
+h1, h2 {
+  color: #000000; /* 深灰色字体 */
+  font-family: 'Georgia', serif; /* 高级的衬线字体 */
+}
+
+ul {
+  list-style-type: none; /* 无项目符号 */
+  padding-left: 0;
+  color: #333333; /* 深灰色字体 */
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #333333; /* 深灰色背景 */
+  color: #ffffff; /* 白色字体 */
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  z-index: 3;
+  position: relative;
+}
+
+button:hover {
+  background-color: #555555; /* 更浅的灰色 */
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.9); /* 半透明白色背景 */
+  color: #333333; /* 深灰色字体 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: left; /* 内容居左 */
+  z-index: 2;
+  position: relative;
+}
+
+a {
+  color: #8e8e8e; /* 深灰色字体 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #333333; /* 深灰色边框 */
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: #f5f5f5; /* 浅灰色背景 */
+  color: #333333; /* 深灰色字体 */
+}
+
+input[type="submit"] {
+  background-color: #333333; /* 深灰色背景 */
+  border: none;
+  color: #ffffff; /* 白色字体 */
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+  background-color: #555555; /* 更浅的灰色 */
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+  color: white; /* 根据你的设计需求调整 */
+}

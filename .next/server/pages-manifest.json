@@ -1,0 +1,9 @@
+{
+  "/_error": "pages/_error.js",
+  "/ContactPage": "pages/ContactPage.js",
+  "/HomePage": "pages/HomePage.js",
+  "/chatbox": "pages/chatbox.js",
+  "/_app": "pages/_app.js",
+  "/AboutPage": "pages/AboutPage.js",
+  "/_document": "pages/_document.js"
+}

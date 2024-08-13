@@ -1,0 +1,17 @@
+.language-switcher {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    z-index: 1000; /* 确保按钮在其他元素之上 */
+  }
+  
+  .language-switcher button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  

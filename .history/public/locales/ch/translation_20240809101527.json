@@ -1,0 +1,59 @@
+{
+    "header":{
+        "Welcome to my website!":"欢迎来到我的网站",
+        "Zhaoguo Wei": "魏兆果",
+        "nav":{"Home": "主页",
+        "About": "关于我",
+        "Contact":"联系我吧！"
+        }
+    },
+
+    "Home":{
+
+    },
+
+    "About":{
+        "This is ME !": "这是我！",
+        "I am a student in computer science 5. Semester":"我是一名计算机科学第五学期的大学生",
+        "lived in Germany for over 7 years":"已经在德国生活了七年啦",
+        "speak chinese, german and english (fluently or in other word: Sicher in Wort und Schrift)":"能流利的说中文德语和英语，口语写作都没问题",
+
+
+        "Education":"学历",
+        "Freie Universität Berlin": "柏林自由大学",
+        "B.Sc. Computer Science (Informatik) (2022 - now)":"计算机本科 （2022-至今）",
+        "Friedrich Ebert Gymnasium":"弗里德里希·艾伯特文理高中",
+        "Graduated in 2022":"已经在2022年毕业",
+
+
+        "Work-experience":"工作经历",
+        "Work student - SynTAGit":"学生工 - SynTAGit",
+        "(2024.Aug)":"2024年8月",
+        "Übersetzerin - Yixue Bildungszentrum":"翻译 - Yixue Bildungszentrum",
+        "offering seamless translation in both directions.": "德中/中德 实时翻译",
+        "(2020 - now)":"(2020 - 至今)",
+        "freelance illustrator":"自由插画师",
+        "Beemybox - Designed Landing page and product packaging":"Beemybox - 网页设计和视觉设计",
+        "Yixue Bildungszentrum - Illustration greeting cards and book illustrations":"Yixue Bildungszentrum - 设计贺卡和书的排版设计",
+        "(2019 - now)":"(2019 - 至今)",
+
+
+        "Projects":"项目",
+        "Data Analysis with Python":"Python - 数据分析",
+        "Object-Oriented Programming Project":"面向对象程序设计项目",
+        "linkText": "看看吧",
+        "linkHtml": "看看吧",
+
+        "Skills" : "技能",
+        "Programming Languages: JavaScript, TypeScript, Python, Java, C/C++, Haskell":"编程语言：JavaScript, TypeScript, Python, Java, C/C++, Haskell",
+        "Front-End: React, HTML, CSS":"前端：React, HTML, CSS",
+        "Back-End: Node.js, Express, MongoDB":"后端：Node.js, Express",
+        "Tools: Git":"工具：Git",
+        "Design: Flyer production" :"设计：宣传单制作",
+        "Illustration/Painting: More realistic style":"插画/绘画：写诗风格",
+        "Tools/Programs (Computer): Adobe Illustrator, Photoshop, InDesign, Blender":""
+    }
+
+}
+  
+  

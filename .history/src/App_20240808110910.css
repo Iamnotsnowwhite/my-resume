@@ -1,0 +1,115 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #2c2c54; /* 深蓝色背景 */
+  color: #f8f8f2; /* 浅色字体 */
+  text-align: center;
+}
+
+header {
+  background-color: #706fd3; /* 中等蓝色 */
+  padding: 20px;
+  color: #ffcccc; /* 淡粉色 */
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 0 0 10px 10px;
+}
+
+nav a {
+  color: #ffcccc; /* 淡粉色 */
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #706fd3; /* 中等蓝色 */
+  padding: 10px;
+  color: #ffcccc;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 10px 10px 0 0;
+}
+
+h1, h2 {
+  color: #ffcccc; /* 粉色标题 */
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #f8f8f2; /* 浅色字体 */
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #706fd3; /* 中等蓝色 */
+  color: #ffcccc;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #474787; /* 深蓝色 */
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #474787; /* 深蓝色容器背景 */
+  color: #ffcccc; /* 容器内浅粉色字体 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  text-align: center;
+}
+
+a {
+  color: #ffcccc; /* 淡粉色链接 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #706fd3; /* 中等蓝色边框 */
+  border-radius: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #2c2c54; /* 深色背景 */
+  color: #f8f8f2; /* 浅色字体 */
+}
+
+input[type="submit"] {
+  background-color: #ffcccc; /* 粉色按钮 */
+  border: none;
+  color: #2c2c54;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+  background-color: #ffb3b3; /* 更浅的粉色 */
+}

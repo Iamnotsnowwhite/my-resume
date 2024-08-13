@@ -1,0 +1,111 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f8ff;
+  color: #333;
+  text-align: center; /* 所有文本居中 */
+}
+
+header {
+  background-color: #87cefa; /* 清新蓝色 */
+  padding: 20px;
+  color: white;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0 0 10px 10px;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #87cefa;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px 10px 0 0;
+}
+
+h1, h2 {
+  color: #4682b4; /* 深蓝色 */
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 0; /* 去除左侧填充 */
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #00ced1; /* 绿松石色 */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #20b2aa; /* 浅海蓝色 */
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center; /* 使容器内文本居中 */
+}
+
+a {
+  color: #00ced1; /* 绿松石色 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #87cefa;
+  border-radius: 5px;
+  box-sizing: border-box;
+  text-align: center; /* 输入框中的文本居中 */
+}
+
+input[type="submit"] {
+  background-color: #00ced1;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+input[type="submit"]:hover {
+  background-color: #20b2aa;
+}
